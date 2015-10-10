@@ -474,3 +474,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+ul.social-icon-menu  {
+    list-style: none;
+    padding: 0px;
+}
+ul.social-icon-menu li {
+    display: inline;
+}
+ul.social-icon-menu li a {}
+ul.social-icon-menu li a:hover {}
+ul.social-icon-menu li a:visited {}
+ul.social-icon-menu li a:active {}
+
